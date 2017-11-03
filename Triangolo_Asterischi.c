@@ -34,8 +34,8 @@ void main() {
       colonna++;
     }
     printf(" %d\n",riga);
-    usleep(500000);
-    riga++;
+    usleep(500000);   //temporizzo i printf in modo che il triangolo 
+    riga++;           //sembri "costruito" un pezzo alla volta
     colonna = 1;
     sx--;
     dx++;
