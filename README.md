@@ -30,3 +30,7 @@ dell'ITI o dell'ITC.
 
   Triangolo_Asterischi_FC.pdf
 
+# Scopo
+Creare una libreria aperta di esempi ed esercizi in linguaggio C realizzati secondo
+uno standard uniforme in modo da poterli sfruttare nella didattica in modo più
+efficace.
