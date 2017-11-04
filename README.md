@@ -9,11 +9,8 @@ dell'ITI o dell'ITC.
   Ad es:
 
   /****************************************************************************/
-  
   /*   programmma per la stampa di un triangolo di asterischi di altezza      */
-  
   /*    stabilita dall'utente partendo dal flow chart                         */
-  
   /****************************************************************************/
   
 
