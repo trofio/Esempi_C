@@ -29,6 +29,9 @@ dell'ITI o dell'ITC.
   Ad es:
 
   Triangolo_Asterischi_FC.pdf
+  
+4)Il codice dovrà essere ampiamente commentato nei suoi passaggi in quanto lo scopo
+  di questi esempi è didattico
 
 # Scopo
 Creare una libreria aperta di esempi ed esercizi in linguaggio C realizzati secondo
