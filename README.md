@@ -8,10 +8,10 @@ dell'ITI o dell'ITC.
   intestazione con il testo del problema e lo scopo delle'esempio in una cornice.
   Ad es:
 
-  /****************************************************************************/
-  /*   programmma per la stampa di un triangolo di asterischi di altezza      */
-  /*    stabilita dall'utente partendo dal flow chart                         */
-  /****************************************************************************/
+  "/****************************************************************************/"
+  "/*   programmma per la stampa di un triangolo di asterischi di altezza      */"
+  "/*    stabilita dall'utente partendo dal flow chart                         */"
+  "/****************************************************************************/"
 
 2)Gli esempi dovranno avere nomi parlanti (il più possibile) con notifica Camel 
   Case e parole separate da sottotratto.
