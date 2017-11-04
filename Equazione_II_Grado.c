@@ -1,6 +1,6 @@
 /***********************************************************************/
 /* Calcola le radici (x1, x2) di una equazione di secondo grado        */
-/*																	                                   */
+/*                                                                     */																	                                   */
 /***********************************************************************/
 
 #include <stdio.h>
@@ -8,7 +8,7 @@
 
 void main() {
 	float a, b, c;			//coefficienti dell'equazione
-	float delta, x1, x2;	//delta e radici dell'equazione
+	float delta, x1, x2;		//delta e radici dell'equazione
 
 	//acquisisco i dati dall'utente
 	printf("data la generica equazione di II grado ax^2+bx+c=0 \ninserisci i coefficienti a, b e c:\n");
@@ -16,13 +16,13 @@ void main() {
 	scanf("%f",&b);
 	scanf("%f",&c);
 	//faccio un po' di debug
-  printf("Hai inserito: a=%f, b=%f, c=%f\n\n",a,b,c);
+  	printf("Hai inserito: a=%f, b=%f, c=%f\n\n",a,b,c);
 
 	//elaboro
 	if (a == 0)
 		printf("Non e' un'equazione di II grado\n");
 	else {
-		delta= b * b - 4 * a *c;
+		delta= b * b - 4 * a *c;  //calcolo il delta e poi lo analizzo
 		if (delta < 0)
 			printf("Non esistono soluzioni reali a questa equazione\n");
 		else {
