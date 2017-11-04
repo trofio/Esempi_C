@@ -30,4 +30,3 @@ dell'ITI o dell'ITC.
 
   Triangolo_Asterischi_FC.pdf
 
-
